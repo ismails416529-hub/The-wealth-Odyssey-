@@ -1,0 +1,6 @@
+{
+  "name": "Wealth Odyssey",
+  "description": "An epic Greek mythic financial literacy quiz voyage covering budgeting, investing, and debt management with unlockable island levels, Pantheon leaderboards, and badges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
